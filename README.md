@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raiza27
-- 👀 I’m interested in learning coding
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning web and mobile technologies
 
 <!---
